@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rosanna-ang.github.io/static/css/main.ffaee63f.css",
+    "main.js": "/rosanna-ang.github.io/static/js/main.238d5439.js",
+    "static/js/453.aac837cf.chunk.js": "/rosanna-ang.github.io/static/js/453.aac837cf.chunk.js",
+    "static/media/fishinmarket.jpg": "/rosanna-ang.github.io/static/media/fishinmarket.bd5fffdda8fbd85bc03a.jpg",
+    "static/media/logo.png": "/rosanna-ang.github.io/static/media/logo.00318adf9bdbc218a42a.png",
+    "index.html": "/rosanna-ang.github.io/index.html",
+    "main.ffaee63f.css.map": "/rosanna-ang.github.io/static/css/main.ffaee63f.css.map",
+    "main.238d5439.js.map": "/rosanna-ang.github.io/static/js/main.238d5439.js.map",
+    "453.aac837cf.chunk.js.map": "/rosanna-ang.github.io/static/js/453.aac837cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffaee63f.css",
+    "static/js/main.238d5439.js"
+  ]
+}
