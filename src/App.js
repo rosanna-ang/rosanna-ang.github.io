@@ -31,15 +31,15 @@ function App() {
         </nav>
       </header>
       <body>
-        //the modal
+        {/* the modal */}
+
         <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
           <div class="w3-modal-content w3-animate-zoom">
             <h2 class="modal-header">Modal Header</h2>
             <img id="modalImage" src="" />
           </div>
         </div>
-
-        //painting area
+        {/* the painting area */}
         <div class="flex-container">
           <div class="flex-painting">
             <div class="wood frame2">
