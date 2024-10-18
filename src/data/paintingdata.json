@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Fish Market",
+    "picture": "/paintings/fishinmarket.jpg",
+    "description": "est",
+    "frame": "wood frame2"
+    
+  },
+  {
+    "id": 2,
+    "name": "Sleep",
+    "picture": "/paintings/sleep.jpg",
+    "description": "test",
+    "frame": "wood frame2"
+  },
+  {
+    "id": 3,
+    "name": "Sleeping Cat",
+    "picture": "/paintings/sleepingcat.jpg",
+    "description": "test",
+    "frame": "wood frame2"
+  }
+]
