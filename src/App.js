@@ -52,14 +52,7 @@ function App() {
               <p>Whereas recognition. In publishing and graphic design, Lorem ipsum is a placeholder text commonly
                 used to demonstrate the visual form of a document a document or a typeface without relying on meaningful
                 content. Whereas recognition. In publishing and graphic design, Lorem ipsum is a placeholder text commonly
-                used to demonstrate the visual form of a document or a typeface without relying on meaningful
-                content.Whereas recognition. In publishing and graphic design, Lorem ipsum is a placeholder text commonly
-                used to demonstrate the visual form of a document or a typeface without relying on meaningful
-                content.Whereas recognition. In publishing and graphic design, Lorem ipsum is a placeholder text commonly
-                used to demonstrate the visual form of a document or a typeface without relying on meaningful
-                content.Whereas recognition. In publishing and graphic design, Lorem ipsum is a placeholder text commonly
-                used to demonstrate the visual form of a document or a typeface without relying on meaningful
-                content.</p>
+                used to demonstrate the visual form of a document or a typeface without relying on meaningful.</p>
               <p>Size</p>
               <p>Medium</p>
             </div>
