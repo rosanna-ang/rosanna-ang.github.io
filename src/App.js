@@ -22,9 +22,9 @@ function App() {
               </div>
               <div class="menu-items" >
                 <li><a href="#">Home</a></li>
-                <li><a href="#">about</a></li>
-                <li><a href="#">portfolio</a></li>
-                <li><a href="#">contact</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="#">Contact</a></li>
               </div>
             </div>
           </div>
