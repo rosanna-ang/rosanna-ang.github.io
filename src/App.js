@@ -43,22 +43,12 @@ function App() {
         <div class="flex-container">
           <div class="flex-painting">
             <div class="wood frame2">
-              <button onClick={() => {
-                this.sayHello();
-                this.setState({ name: "James" });
-              }}>
-                Click me!
-              </button>
-
-
               <img src={fishinmarket} onClick={() => clickImage(fishinmarket)} />
-
-
             </div>
           </div>
           <div class="flex-text">
             <div class="text-painting">
-              <p class="painting-title-font">This text is bold</p>
+              <p class="painting-title-font">Fish Market</p>
               <p>Whereas recognition. In publishing and graphic design, Lorem ipsum is a placeholder text commonly
                 used to demonstrate the visual form of a document a document or a typeface without relying on meaningful
                 content. Whereas recognition. In publishing and graphic design, Lorem ipsum is a placeholder text commonly
