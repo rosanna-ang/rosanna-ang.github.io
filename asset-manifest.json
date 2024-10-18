@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.1975cd14.css",
+    "main.css": "/static/css/main.ffaee63f.css",
     "main.js": "/static/js/main.145ea41f.js",
     "static/js/453.aac837cf.chunk.js": "/static/js/453.aac837cf.chunk.js",
     "static/media/fishinmarket.jpg": "/static/media/fishinmarket.bd5fffdda8fbd85bc03a.jpg",
     "static/media/logo.png": "/static/media/logo.00318adf9bdbc218a42a.png",
     "index.html": "/index.html",
-    "main.1975cd14.css.map": "/static/css/main.1975cd14.css.map",
+    "main.ffaee63f.css.map": "/static/css/main.ffaee63f.css.map",
     "main.145ea41f.js.map": "/static/js/main.145ea41f.js.map",
     "453.aac837cf.chunk.js.map": "/static/js/453.aac837cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1975cd14.css",
+    "static/css/main.ffaee63f.css",
     "static/js/main.145ea41f.js"
   ]
 }
