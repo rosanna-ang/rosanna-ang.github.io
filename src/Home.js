@@ -1,6 +1,6 @@
 
 import './style/style.css';
-import ny from './style/ny.jpg';
+import home1 from './style/home1.jpg';
 import la from './style/la.jpg';
 
 
@@ -10,17 +10,18 @@ function Home() {
         <div className="App">
             <div>
 
-        
+            <p class="home-title-font">Welcome</p>
 
 
 
-                <p class="home-title-font">Welcome</p>
-                <p class="home-text-font">Artworks are listed for sale in here and here.</p>
+                <div class="home-img">
+                    <img src={home1} />
+                </div>
 
-        
+  
 
-        
-                
+
+
             </div>
 
         </div>
