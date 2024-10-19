@@ -1,7 +1,5 @@
 import logo from './style/logo.png';
 import './style/style.css';
-import clickImage from "./style/myScript.js";
-import paintingdata from "./data/paintingdata.json";
 import Portfolio from './Portfolio';
 import Contact from './Contact';
 import About from './About';
