@@ -4,8 +4,29 @@ import Portfolio from './Portfolio';
 import Contact from './Contact';
 import About from './About';
 import Home from './Home';
+import { createBrowserRouter, Link, RouterProvider } from 'react-router-dom';
 
 function App() {
+
+  const router = createBrowserRouter([
+    {
+      path: "/",
+      element: <Home />
+    },
+    {
+      path: "/about",
+      element: <About />
+    },
+    {
+      path: "/contact-me",
+      element: <Contact />
+    },
+    {
+      path: "/portfolio",
+      element: <Portfolio />
+    }
+  ])
+
   return (
     <div className="App">
       <header className="App-header">
@@ -22,21 +43,25 @@ function App() {
                 <img src={logo} />
               </div>
               <div class="menu-items" >
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Portfolio</a></li>
-                <li><a href="#">Contact</a></li>
+                <li>
+                  <a href="/">Home</a>
+                </li>
+                <li>
+                  <a href="/about">About</a>
+                </li>
+                <li>
+                  <a href="/portfolio">Portfolio</a>
+                </li>
+                <li>
+                  <a href="/contact-me">Contact</a>
+                </li>
               </div>
             </div>
           </div>
         </nav>
       </header>
       <body>
-
-      <Home />
-      <About />
-      <Contact />
-      <Portfolio />
+        <RouterProvider router={router} />
       </body>
     </div>
 
