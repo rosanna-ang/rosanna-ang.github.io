@@ -20,5 +20,12 @@
     "picture": "/paintings/sleepingcat.jpg",
     "description": "test",
     "frame": "wood frame2"
+  },
+  {
+    "id": 4,
+    "name": "Crow in Colour",
+    "picture": "/paintings/crowincolour.jpg",
+    "description": "test",
+    "frame": "wood frame2"
   }
 ]
