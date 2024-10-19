@@ -4,6 +4,8 @@ import clickImage from "./style/myScript.js";
 import paintingdata from "./data/paintingdata.json";
 import Portfolio from './Portfolio';
 import Contact from './Contact';
+import About from './About';
+import Home from './Home';
 
 function App() {
   return (
@@ -33,6 +35,8 @@ function App() {
       </header>
       <body>
 
+      <Home />
+      <About />
       <Contact />
       <Portfolio />
       </body>

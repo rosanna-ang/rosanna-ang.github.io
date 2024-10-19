@@ -11,6 +11,8 @@ body {
 
 
 
+
+
 /*add image pop-up modal stuff here*/
 
 .w3-modal {
@@ -102,6 +104,30 @@ body {
     margin-block-end: 0.83em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+}
+
+.home-title-font {
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    margin: 0px 0px 20px;
+    font-weight: normal;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: center;
+}
+
+.home-text-font {
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    margin: 0px 0px 20px;
+    font-weight: normal;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: center;
 }
 
 img {
