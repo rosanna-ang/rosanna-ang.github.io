@@ -4,7 +4,6 @@ body {
     background-color: #F0F0F0;
     font-family: "Poppins", sans-serif;
     font-size: 16px;
-    line-height: 24px;
     font-weight: 300;
 
 }
@@ -116,6 +115,7 @@ section.content {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     text-align: center;
+    text-shadow: 2px 2px #d6d4d4;
 }
 
 .home-text-font {
@@ -432,6 +432,7 @@ header img {
 
     display: inline-block;
     margin: 10vh 0vw;
+padding-right: 110px;
     width: 100%;
     position: relative;
     text-align: left;
@@ -458,8 +459,9 @@ header img {
     height: 100%;
     position: absolute;
     left: 0;
-    opacity: 0.8;
+    opacity: 0.9;
     /* for demo purpose  */
+
 }
 
 .stack-title {
@@ -477,7 +479,7 @@ header img {
 
     position: absolute;
     bottom: 0;
-    text-decoration:none;
+    text-decoration: none;
 
 }
 
@@ -489,12 +491,14 @@ header img {
 
 .home-img {
     width: 100%;
+    height: auto%;
     margin: auto;
     display: block;
+    object-fit: contain;
 }
 
 .home-link {
-    text-decoration:none;
+    text-decoration: none;
 }
 
 .home-btn {
