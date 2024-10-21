@@ -477,6 +477,7 @@ header img {
 
     position: absolute;
     bottom: 0;
+    text-decoration:none;
 
 }
 
@@ -490,6 +491,10 @@ header img {
     width: 100%;
     margin: auto;
     display: block;
+}
+
+.home-link {
+    text-decoration:none;
 }
 
 .home-btn {

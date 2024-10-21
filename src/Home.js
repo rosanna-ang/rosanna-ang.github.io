@@ -16,7 +16,7 @@ function Home() {
                 </div>
 
                 <div class="box stack-button">
-                    <a href="https://www.freecodecamp.org/">
+                    <a  class="home-link" href="https://www.freecodecamp.org/">
                         <button class="home-btn">Explore More</button>
                     </a>
                 </div>
