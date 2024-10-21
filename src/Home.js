@@ -8,19 +8,22 @@ import la from './style/la.jpg';
 function Home() {
     return (
         <div className="App">
-            <div>
-
-            <p class="home-title-font">Welcome</p>
+            <div class="home-container">
 
 
 
-                <div class="home-img">
-                    <img src={home1} />
+                <div class="box stack-title">
                 </div>
 
-  
+                <div class="box stack-button">
+                    <a href="https://www.freecodecamp.org/">
+                        <button class="home-btn">Explore More</button>
+                    </a>
+                </div>
 
-
+                <div class="box">
+                    <img src={home1} class="home-img" />
+                </div>
 
             </div>
 
