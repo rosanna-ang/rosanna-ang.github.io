@@ -15,8 +15,6 @@ function App() {
 
               return (<div key={index}>
 
-
-
                 {/* the modal */}
                 <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
                   <div class="w3-modal-content w3-animate-zoom">
@@ -24,6 +22,7 @@ function App() {
                     <img id="modalImage" src="" />
                   </div>
                 </div>
+
                 {/* the painting area */}
                 <div class="flex-container">
                   <div class="flex-painting">
