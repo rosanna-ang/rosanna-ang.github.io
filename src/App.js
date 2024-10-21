@@ -4,28 +4,9 @@ import Portfolio from './Portfolio';
 import Contact from './Contact';
 import About from './About';
 import Home from './Home';
-import { createBrowserRouter, Link, RouterProvider } from 'react-router-dom';
+import { createHashRouter, Link, Route, RouterProvider, Routes } from 'react-router-dom';
 
 function App() {
-
-  const router = createBrowserRouter([
-    {
-      path: "/",
-      element: <Home />
-    },
-    {
-      path: "/about",
-      element: <About />
-    },
-    {
-      path: "/contact-me",
-      element: <Contact />
-    },
-    {
-      path: "/portfolio",
-      element: <Portfolio />
-    }
-  ])
 
   return (
     <div className="App">
@@ -44,16 +25,16 @@ function App() {
               </div>
               <div class="menu-items" >
                 <li>
-                  <a href="/">Home</a>
+                  <Link to="/">Home</Link>
                 </li>
                 <li>
-                  <a href="/about">About</a>
+                  <Link to="/about">About</Link>
                 </li>
                 <li>
-                  <a href="/portfolio">Portfolio</a>
+                  <Link to="/portfolio">Portfolio</Link>
                 </li>
                 <li>
-                  <a href="/contact-me">Contact</a>
+                  <Link to="/contact-me">Contact</Link>
                 </li>
               </div>
             </div>
@@ -61,7 +42,12 @@ function App() {
         </nav>
       </header>
       <body>
-        <RouterProvider router={router} />
+        <Routes>
+          <Route exact path='/' element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/portfolio" element={<Portfolio />} />
+          <Route path="/contact-me" element={<Contact />} />
+        </Routes>
       </body>
     </div>
 
