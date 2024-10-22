@@ -25,7 +25,7 @@ function Home() {
 
                 <div class="box">
                     <img src={home1} class="home-img mask1" />
-                    
+
                 </div>
 
             </div>

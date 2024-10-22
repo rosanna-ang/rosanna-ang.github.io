@@ -13,7 +13,7 @@ body {
 .mask1 {
     -webkit-mask-image: linear-gradient(black, transparent);
     mask-image: linear-gradient(black, transparent);
-  }
+}
 
 /*add image pop-up modal stuff here*/
 
@@ -88,7 +88,7 @@ section.content {
     display: flex;
     flex-wrap: nowrap;
 
-    overflow:hidden;
+    overflow: hidden;
 
 
 }
@@ -101,7 +101,7 @@ section.content {
 }
 
 
-  
+
 .painting-title-font {
     font-family: "Poppins", sans-serif;
     font-size: 40px;
@@ -440,7 +440,9 @@ header img {
 
     display: inline-block;
     margin: 10vh 0vw;
-padding-right: 50px;
+    padding-right: 50px;
+
+    padding-left: 50px;
     width: 100%;
     position: relative;
     text-align: left;
@@ -483,7 +485,7 @@ padding-right: 50px;
     z-index: 8;
     margin: 0px;
     /* for demo purpose  */
-    padding: 550px 50px 50px 50px;
+    padding: 450px 50px 50px 50px;
 
     position: absolute;
     bottom: 0;
@@ -527,4 +529,34 @@ padding-right: 50px;
 
     box-shadow: 0 0 5px 0 rgba(0, 0, 0, .25) inset, 0 5px 10px 5px rgba(0, 0, 0, .25);
 
+}
+
+
+
+
+.wrapper {
+
+    overflow: hidden;
+}
+
+.wrapper div {
+    min-height: 200px;
+}
+
+#one {
+    float: left;
+    width: 50%;
+}
+
+#two {
+    overflow: hidden;
+    min-height: 170px;
+}
+
+@media screen and (max-width: 900px) {
+    #one {
+        float: none;
+        margin-right: 0;
+        width: auto;
+    }
 }

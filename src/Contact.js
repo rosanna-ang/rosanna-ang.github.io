@@ -7,13 +7,13 @@ function App() {
     return (
         <div className="App">
             <div>
-                <div class="flex-container">
-                    <div class="flex-painting">
+                <div class="wrapper">
+                    <div id="one" class="flex-painting">
                         <div class="no-frame">
                             <img src={paintingview} />
                         </div>
                     </div>
-                    <div class="flex-text">
+                    <div id="two" class="flex-text">
                         <div class="text-painting">
                             <p class="painting-title-font">Contact Me</p>
                             <p>Artworks are listed for sale in here and here.</p>
