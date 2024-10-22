@@ -440,7 +440,7 @@ header img {
 
     display: inline-block;
     margin: 10vh 0vw;
-    padding-right: 20px;
+    padding-right: 150px;
 
     padding-left: 50px;
     width: 100%;
@@ -537,6 +537,7 @@ header img {
 .wrapper {
 
     overflow: hidden;
+    margin: 10px;
 }
 
 .wrapper div {
@@ -553,7 +554,7 @@ header img {
     min-height: 170px;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1000px) {
     #one {
         float: none;
         margin-right: 0;

@@ -1,5 +1,5 @@
 
-import paintingview from './style/paintingview.jpg';
+import paintingview from './style/home2.jpg';
 import './style/style.css';
 
 
