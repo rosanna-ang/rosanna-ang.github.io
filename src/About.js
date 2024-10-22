@@ -7,13 +7,13 @@ function About() {
     return (
         <div className="App">
             <div>
-                <div class="flex-container">
-                    <div class="flex-painting">
+                <div class="wrapper">
+                    <div id="one"class="flex-painting">
                         <div class="no-frame">
                             <img src={paintingview} />
                         </div>
                     </div>
-                    <div class="flex-text">
+                    <div id = "two" class="flex-text">
                         <div class="text-painting">
                             <p class="painting-title-font">My name is Rosanna Ang 
                             </p>
