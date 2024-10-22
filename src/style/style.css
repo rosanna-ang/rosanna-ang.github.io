@@ -485,7 +485,7 @@ header img {
     z-index: 8;
     margin: 0px;
     /* for demo purpose  */
-    padding: 600px 50px 50px 50px;
+    padding: 40% 50px 50px 50px;
 
     position: absolute;
     bottom: 0;
@@ -537,7 +537,7 @@ header img {
 .wrapper {
 
     overflow: hidden;
-    margin: 10px;
+    margin-left: 50px;
 }
 
 .wrapper div {
