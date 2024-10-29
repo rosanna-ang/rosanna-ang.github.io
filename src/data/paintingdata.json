@@ -1,13 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Fish Market",
-    "picture": "/paintings/fishinmarket.jpg",
+    "name": "Bombay Sapphire",
+    "picture": "/paintings/bombaysapphire.jpg",
     "description": "",
-    "medium":"Acrylic painting",
-    "size":"",
-    "frame": "wood frame2"
-    
+    "medium": "Acrylic painting",
+    "size": "",
+    "frame": "black frame2"
   },
   {
     "id": 2,
@@ -15,9 +14,9 @@
     "picture": "/paintings/sleep.jpg",
     "description": "The two boys sleep peacefully.  The only time they are not bickering.",
     "frame": "wood frame2",
-    "medium":"Acrylic painting",
-    "size":"",
-    "status":"Personal work, not available for sale."
+    "medium": "Acrylic painting",
+    "size": "",
+    "status": "Personal collection, not available for sale."
   },
   {
     "id": 3,
@@ -25,18 +24,27 @@
     "picture": "/paintings/sleepingcat.jpg",
     "description": "Paddy is a Kitty adopted by Iris.  In here he sleeps in a corner peacefully.",
     "frame": "wood frame2",
-    "medium":"Acrylic painting",
-    "size":"",
-    "status":"Commission work, not available for sale."
+    "medium": "Acrylic painting",
+    "size": "",
+    "status": "Commission work, not available for sale."
   },
   {
     "id": 4,
     "name": "Crow in Colour",
     "picture": "/paintings/crowincolour.jpg",
     "description": "",
-    "medium":"Acrylic painting",
-    "size":"",
+    "medium": "Acrylic painting",
+    "size": "",
     "frame": "wood frame2"
+  },
+  {
+    "id": 4,
+    "name": "Land and Lake",
+    "picture": "/paintings/canadianskies.jpg",
+    "description": "",
+    "medium": "Acrylic painting",
+    "size": "",
+    "frame": "black frame2"
   },
   {
     "id": 5,
@@ -44,19 +52,19 @@
     "picture": "/paintings/softwareengineering.jpg",
     "description": "Commission work for Mr John.  This painting is a snapshot of John's presence during the time of interaction with the artist.  He drank tea and read insights about software engineering best practices.",
     "frame": "wood frame2",
-    "status":"Commission work, not available for sale.",
-    "medium":"Acrylic painting",
-    "size":""
+    "status": "Commission work, not available for sale.",
+    "medium": "Acrylic painting",
+    "size": ""
   },
   {
     "id": 6,
     "name": "Splash",
     "picture": "/paintings/crowincolour.jpg",
-    "description": "",
+    "description": "It's a luxury to jump in the pool in the sweltering heat of Singapore!",
     "frame": "wood frame2",
-    "status":"Personal work, not available for sale.",
-    "medium":"Acrylic painting",
-    "size":""
+    "status": "Personal collection, not available for sale.",
+    "medium": "Acrylic painting",
+    "size": ""
   },
   {
     "id": 7,
@@ -64,7 +72,33 @@
     "picture": "/paintings/whisky.jpg",
     "description": "",
     "frame": "wood frame2",
-    "medium":"Acrylic painting",
-    "size":""
+    "medium": "Acrylic painting",
+    "size": ""
+  },
+  {
+    "id": 8,
+    "name": "Fish Market",
+    "picture": "/paintings/fishinmarket.jpg",
+    "description": "",
+    "medium": "Acrylic painting",
+    "size": "",
+    "frame": "wood frame2"
+  },{
+    "id": 4,
+    "name": "Absolutely",
+    "picture": "/paintings/absolutvodka.jpg",
+    "description": "",
+    "medium": "Acrylic painting",
+    "size": "",
+    "frame": "black frame2"
+  },{
+    "id": 4,
+    "name": "Martini",
+    "picture": "/paintings/martini.jpg",
+    "description": "Commission work for Martin for this birthday.  Martin also happens to drink martinis.",
+    "medium": "Acrylic painting",
+    "size": "",
+    "frame": "wood frame2",
+    "status": "Commission work, not available for sale."
   }
 ]
