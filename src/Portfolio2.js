@@ -32,8 +32,8 @@ function App() {
                                     <div class="text-painting">
                                         <p class="painting-title-font">{p.name}</p>
                                         <p>{p.description}</p>
-                                        <p>Size</p>
-                                        <p>Medium</p>
+                                        <p>{p.medium} {p.size}</p>
+                                        <p>{p.status}</p>
                                     </div>
                                 </div>
                             </div>

@@ -3,7 +3,9 @@
     "id": 1,
     "name": "Fish Market",
     "picture": "/paintings/fishinmarket.jpg",
-    "description": "est",
+    "description": "",
+    "medium":"Acrylic painting",
+    "size":"",
     "frame": "wood frame2"
     
   },
@@ -11,21 +13,58 @@
     "id": 2,
     "name": "Sleep",
     "picture": "/paintings/sleep.jpg",
-    "description": "test",
-    "frame": "wood frame2"
+    "description": "The two boys sleep peacefully.  The only time they are not bickering.",
+    "frame": "wood frame2",
+    "medium":"Acrylic painting",
+    "size":"",
+    "status":"Personal work, not available for sale."
   },
   {
     "id": 3,
     "name": "Sleeping Cat",
     "picture": "/paintings/sleepingcat.jpg",
-    "description": "test",
-    "frame": "wood frame2"
+    "description": "Paddy is a Kitty adopted by Iris.  In here he sleeps in a corner peacefully.",
+    "frame": "wood frame2",
+    "medium":"Acrylic painting",
+    "size":"",
+    "status":"Commission work, not available for sale."
   },
   {
     "id": 4,
     "name": "Crow in Colour",
     "picture": "/paintings/crowincolour.jpg",
-    "description": "test",
+    "description": "",
+    "medium":"Acrylic painting",
+    "size":"",
     "frame": "wood frame2"
+  },
+  {
+    "id": 5,
+    "name": "Dear John",
+    "picture": "/paintings/softwareengineering.jpg",
+    "description": "Commission work for Mr John.  This painting is a snapshot of John's presence during the time of interaction with the artist.  He drank tea and read insights about software engineering best practices.",
+    "frame": "wood frame2",
+    "status":"Commission work, not available for sale.",
+    "medium":"Acrylic painting",
+    "size":""
+  },
+  {
+    "id": 6,
+    "name": "Splash",
+    "picture": "/paintings/crowincolour.jpg",
+    "description": "",
+    "frame": "wood frame2",
+    "status":"Personal work, not available for sale.",
+    "medium":"Acrylic painting",
+    "size":""
+  },
+  {
+    "id": 7,
+    "name": "Whisky",
+    "picture": "/paintings/whisky.jpg",
+    "description": "",
+    "frame": "wood frame2",
+    "medium":"Acrylic painting",
+    "size":""
   }
 ]
