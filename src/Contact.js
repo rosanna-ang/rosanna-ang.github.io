@@ -16,9 +16,11 @@ function App() {
                     <div id="two" class="flex-text">
                         <div class="text-painting">
                             <p class="painting-title-font">Contact Me</p>
+                            {/*
                             <p>Artworks are listed for sale in here and here.</p>
+                            */}  
                             <p>For enquiries, drop an email to rosanna.c.ang@gmail.com.</p>
-                            <p>To view the artwork in person, please reach out for further details.</p>
+                            <p>To view the artworks in person or to discuss comission work, please reach out for further details.</p>
                         </div>
                     </div>
                 </div>
