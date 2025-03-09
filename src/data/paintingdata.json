@@ -1,5 +1,14 @@
 [
   {
+    "id": 4,
+    "name": "Crow in Colour",
+    "picture": "/paintings/crowincolour.jpg",
+    "description": "",
+    "medium": "Acrylic painting",
+    "size": "",
+    "frame": "wood frame2"
+  },
+  {
     "id": 1,
     "name": "Bombay Sapphire",
     "picture": "/paintings/bombaysapphire.jpg",
@@ -30,18 +39,9 @@
   },
   {
     "id": 4,
-    "name": "Crow in Colour",
-    "picture": "/paintings/crowincolour.jpg",
-    "description": "",
-    "medium": "Acrylic painting",
-    "size": "",
-    "frame": "wood frame2"
-  },
-  {
-    "id": 4,
     "name": "Land and Lake",
     "picture": "/paintings/canadianskies.jpg",
-    "description": "",
+    "description": "This painting is made in collaboration with the artist's children, aged 6 and 9 at that time.",
     "medium": "Acrylic painting",
     "size": "",
     "frame": "black frame2"
@@ -83,7 +83,8 @@
     "medium": "Acrylic painting",
     "size": "",
     "frame": "wood frame2"
-  },{
+  },
+  {
     "id": 4,
     "name": "Absolutely",
     "picture": "/paintings/absolutvodka.jpg",
@@ -91,7 +92,8 @@
     "medium": "Acrylic painting",
     "size": "",
     "frame": "black frame2"
-  },{
+  },
+  {
     "id": 4,
     "name": "Martini",
     "picture": "/paintings/martini.jpg",
@@ -99,6 +101,26 @@
     "medium": "Acrylic painting",
     "size": "",
     "frame": "wood frame2",
+    "status": "Commission work, not available for sale."
+  },
+  {
+    "id": 4,
+    "name": "Peace 1",
+    "picture": "/paintings/martini.jpg",
+    "description": "Commission work for Martin for this birthday.  Martin also happens to drink martinis.",
+    "medium": "Acrylic painting",
+    "size": "",
+    "frame": "wood frame2",
+    "status": "Commission work, not available for sale."
+  }, 
+  {
+    "id": 4,
+    "name": "Peace 2",
+    "picture": "/paintings/martini.jpg",
+    "description": "A 2-part piece that denotes ",
+    "medium": "Acrylic painting",
+    "size": "",
+    "frame": "no-frame",
     "status": "Commission work, not available for sale."
   }
 ]

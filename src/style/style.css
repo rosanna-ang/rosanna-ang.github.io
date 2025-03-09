@@ -113,7 +113,7 @@ section.content {
 
 .home-title-font {
     font-family: "Poppins", sans-serif;
-    font-size: 40px;
+    font-size: 35px;
     margin: 0px 0px 20px;
     font-weight: normal;
     margin-block-start: 0.83em;
@@ -514,11 +514,11 @@ header img {
     color: white;
     padding: 25px 35px;
     margin-bottom: 50px;
-    text-decoration: none;
+    z-index: -1;
     cursor: pointer;
     border: none;
     font-size: 1.5rem;
-
+    text-decoration: none;
     display: block;
     margin-left: auto;
     margin-right: auto;

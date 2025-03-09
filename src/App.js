@@ -4,17 +4,22 @@ import Portfolio from './Portfolio2';
 import Contact from './Contact';
 import About from './About';
 import Home from './Home';
-import { createHashRouter, Link, Route, RouterProvider, Routes } from 'react-router-dom';
+import { createHashRouter, Link, Route, RouterProvider, Routes, useLocation } from 'react-router-dom';
+import { useEffect } from 'react';
 
 function App() {
+  const location = useLocation()
+  useEffect(() => {
+    document.getElementById("navigation_button").checked = false
+  }, [location])
 
   return (
     <div className="App">
       <header className="App-header">
         <nav>
-          <div class="navbar">
+          <div class="navbar" id="navigation">
             <div class=" nav-container">
-              <input class="checkbox" type="checkbox" name="" id="" />
+              <input class="checkbox" type="checkbox" name="" id="navigation_button" />
               <div class="hamburger-lines" >
                 <span class="line line1"></span>
                 <span class="line line2"></span>
