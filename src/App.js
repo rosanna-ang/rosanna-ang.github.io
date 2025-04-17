@@ -1,6 +1,6 @@
 import logo from './style/logo.png';
 import './style/style.css';
-import Portfolio from './Portfolio2';
+import Portfolio from './Portfolio3';
 import Contact from './Contact';
 import About from './About';
 import Home from './Home';

@@ -4,7 +4,7 @@ import home1 from './style/home1.jpg';
 import la from './style/la.jpg';
 
 import { createHashRouter, Link, Route, RouterProvider, Routes, useLocation } from 'react-router-dom';
-import Portfolio from './Portfolio2';
+import Portfolio from './Portfolio3';
 
 
 
@@ -14,24 +14,11 @@ function Home() {
             <div class="home-container">
 
 
-
-
                 <div class="box stack-button">
                     <p class="home-title-font">My name is Rosanna. Thank you for visting my portfolio. </p>
                     <Link class="home-link" to="/portfolio">
                         <button class="home-btn">Explore More</button>
                     </Link>
-
-
-
-
-                    
-
-                    
-
-
-
-
 
 
                 </div>

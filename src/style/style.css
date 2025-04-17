@@ -8,6 +8,30 @@ body {
 
 }
 
+* {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 2%;
+    
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 500px) {
+    .column {
+      width: 100%;
+    }
+  }
 
 
 .mask1 {
@@ -488,6 +512,21 @@ header img {
     position: absolute;
     bottom: 0;
     text-decoration: none;
+
+}
+
+.gallery {
+    margin: 0px;
+    /* for demo purpose  */
+    padding: 5%  5% 5% 5%;
+    padding-right: 10%;
+
+    padding-left: 10%;
+    padding-top: 0px;
+
+
+
+    bottom: 0;
 
 }
 

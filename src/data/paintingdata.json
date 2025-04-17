@@ -6,7 +6,17 @@
     "description": "",
     "medium": "Acrylic painting",
     "size": "",
-    "frame": "wood frame2"
+    "frame": "no-frame"
+  },
+  {
+    "id": 4,
+    "name": "Peace 2",
+    "picture": "/paintings/martini.jpg",
+    "description": "A 2-part piece that denotes ",
+    "medium": "Acrylic painting",
+    "size": "",
+    "frame": "no-frame",
+    "status": "Commission work, not available for sale."
   },
   {
     "id": 1,
