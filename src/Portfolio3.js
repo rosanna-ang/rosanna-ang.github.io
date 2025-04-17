@@ -5,6 +5,13 @@ import paintingdata from "./data/paintingdata.json";
 
 
 function App() {
+    const chunkSize = 3;
+    const data = []
+    for (let i = 0; i < paintingdata.length; i += chunkSize) {
+        const chunk = paintingdata.slice(i, i + chunkSize);
+        data.push(chunk)
+    }
+
     return (
         <div className="App">
 
@@ -16,7 +23,7 @@ function App() {
 
 
                 {
-                    paintingdata.map((p, index) => {
+                    data.map((chunk, index) => {
 
                         return (<div key={index}>
 
@@ -24,20 +31,14 @@ function App() {
 
                             <div class="gallery">
                                 <div class="row">
-                                    <div class="column">
-                                        <img src={p.picture} alt="Snow" />
-                                        <p>{p.name}</p>
-                                    </div>
-                                    <div class="column">
-                                        <img src={p.picture} alt="Forest" />
-
-                                        <p>{p.name}</p>
-                                    </div>
-                                    <div class="column">
-                                        <img src={p.picture} alt="Mountains" />
-
-                                        <p>{p.name}</p>
-                                    </div>
+                                    {chunk.map((p) => {
+                                        return (
+                                            <div class="column">
+                                            <img src={p.picture} alt={p.name} />
+                                            <p>{p.name}</p>
+                                        </div>
+                                        )
+                                    })}
                                 </div>
 
 
