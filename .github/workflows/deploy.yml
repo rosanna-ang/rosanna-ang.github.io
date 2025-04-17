@@ -22,7 +22,7 @@ jobs:
         run: npm install
 
       - name: Build the app
-        run: CI=false npm run build && echo "https://rosannaang.com" > ./build/CNAME
+        run: CI=false npm run build && echo "https://www.rosannaang.com" > ./build/CNAME
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
