@@ -17,10 +17,14 @@ function About() {
                         <div class="text-painting">
                             <p class="painting-title-font">About
                             </p>
-                            <p>Rosanna is an amateur artist.  Ever since her childhood she has dabbled in painting and music. 
-                                Having donned the pratical corprate hat for more than 20 years, she is rekindling her passion for art by sharing her paintings to friends, family, and now to the rest of the world as well.
-                    
-
+                            <p>
+                                I find inspiration in everyday life. My paintings are usually a reflection certain events or feelings from moments in time.  
+                                <br/><br/>
+                                If you would like to know more and see the artworks in person, please reach out to schedule a visit in my home gallery. 
+                                <br/><br/>
+                                For commission work, I prefer to visit my client's home to see the theme and colour schemes, so that we both get a feel for how the work will relate to its surroundings.  
+                                <br/><br/>
+                                - Rosanna Ang
                             </p>
                         </div>
                     </div>
