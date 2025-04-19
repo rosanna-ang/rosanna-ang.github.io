@@ -1,7 +1,6 @@
 
 import './style/style.css';
 import home1 from './style/home1.jpg';
-import la from './style/la.jpg';
 
 import { createHashRouter, Link, Route, RouterProvider, Routes, useLocation } from 'react-router-dom';
 import Portfolio from './Portfolio3';

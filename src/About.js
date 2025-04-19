@@ -24,7 +24,8 @@ function About() {
                                 <br/><br/>
                                 For commission work, I prefer to visit my client's home to see the theme and colour schemes, so that we both get a feel for how the work will relate to its surroundings.  
                                 <br/><br/>
-                                - Rosanna Ang
+                                <p class="home-title-font">Rosanna Ang</p>
+                                
                             </p>
                         </div>
                     </div>

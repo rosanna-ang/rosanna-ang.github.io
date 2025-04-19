@@ -4,6 +4,7 @@ import Portfolio from './Portfolio3';
 import Contact from './Contact';
 import About from './About';
 import Home from './Home';
+import "./style/AmsterdamHandwriting.ttf";
 import { createHashRouter, Link, Route, RouterProvider, Routes, useLocation } from 'react-router-dom';
 import { useEffect } from 'react';
 
