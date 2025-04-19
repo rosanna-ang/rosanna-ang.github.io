@@ -6,7 +6,17 @@
     "description": "",
     "medium": "Acrylic painting",
     "size": "",
-    "frame": "no-frame"
+    "frame": "no-frame",
+    "status": "Commission work, not available for sale."
+  },
+  {
+    "id": 4,
+    "name": "Land and Lake",
+    "picture": "/paintings/canadianskies.jpg",
+    "description": "This painting is made in collaboration with the artist's children, aged 6 and 9 at that time.",
+    "medium": "Acrylic painting",
+    "size": "",
+    "frame": "black frame2"
   },
   {
     "id": 4,
@@ -47,15 +57,7 @@
     "size": "",
     "status": "Commission work, not available for sale."
   },
-  {
-    "id": 4,
-    "name": "Land and Lake",
-    "picture": "/paintings/canadianskies.jpg",
-    "description": "This painting is made in collaboration with the artist's children, aged 6 and 9 at that time.",
-    "medium": "Acrylic painting",
-    "size": "",
-    "frame": "black frame2"
-  },
+ 
   {
     "id": 5,
     "name": "Dear John",
