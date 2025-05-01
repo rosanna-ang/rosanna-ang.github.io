@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Crow in Colour",
-    "picture": "/paintings/crowincolour.jpg",
+    "picture": "/paintings/crow.jpg",
     "description": "",
     "medium": "Acrylic painting",
     "size": "",
@@ -119,5 +119,10 @@
     "id": 4,
     "name": "106th Birthday",
     "picture": "/paintings/grandma.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Flowers",
+    "picture": "/paintings/flowers.jpg"
   }
 ]
