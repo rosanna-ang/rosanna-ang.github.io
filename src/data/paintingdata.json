@@ -87,6 +87,21 @@
   },
   {
     "id": 4,
+    "name": "Cloud 1",
+    "picture": "/paintings/cloud1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Cloud 2",
+    "picture": "/paintings/cloud2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Cloud 3",
+    "picture": "/paintings/cloud3.jpg"
+  },
+  {
+    "id": 4,
     "name": "Martini",
     "picture": "/paintings/martini.jpg",
     "description": "Commission work for Martin for this birthday.  Martin also happens to drink martinis.",
@@ -94,5 +109,15 @@
     "size": "",
     "frame": "wood frame2",
     "status": "Commission work, not available for sale."
+  },
+  {
+    "id": 4,
+    "name": "Goose",
+    "picture": "/paintings/goose.jpg"
+  },
+  {
+    "id": 4,
+    "name": "106th Birthday",
+    "picture": "/paintings/grandma.jpg"
   }
 ]
