@@ -144,5 +144,15 @@
     "id": 4,
     "name": "Aperol",
     "picture": "/paintings/Aperol.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Fanta Orange",
+    "picture": "/paintings/bluelady.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Fanta Grape",
+    "picture": "/paintings/Aperol.jpg"
   }
 ]
