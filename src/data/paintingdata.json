@@ -124,5 +124,25 @@
     "id": 4,
     "name": "Flowers",
     "picture": "/paintings/flowers.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Plant 1",
+    "picture": "/paintings/plant1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Plant 2",
+    "picture": "/paintings/plant2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Lady",
+    "picture": "/paintings/bluelady.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Aperol",
+    "picture": "/paintings/aperol.jpg"
   }
 ]
