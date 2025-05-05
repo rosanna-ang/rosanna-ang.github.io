@@ -128,12 +128,12 @@
   {
     "id": 4,
     "name": "Plant 1",
-    "picture": "/paintings/Plant1.jpg"
+    "picture": "/paintings/plantdivya1.jpg"
   },
   {
     "id": 4,
     "name": "Plant 2",
-    "picture": "/paintings/Plant2.jpg"
+    "picture": "/paintings/plantdivya2.jpg"
   },
   {
     "id": 4,
@@ -143,16 +143,6 @@
   {
     "id": 4,
     "name": "Aperol",
-    "picture": "/paintings/Aperol.jpg"
-  },
-  {
-    "id": 4,
-    "name": "Fanta Orange",
-    "picture": "/paintings/bluelady.jpg"
-  },
-  {
-    "id": 4,
-    "name": "Fanta Grape",
     "picture": "/paintings/Aperol.jpg"
   }
 ]
